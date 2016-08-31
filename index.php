@@ -17,7 +17,7 @@
 <!-- Fill the Body with Notes and Functionality -->
     <body>
         <h1>
-            Chapter One of PHP
+            Chapter One of PHP Lecture
         </h1>
             <p>
                 The PHP tag is <?php     ?> and comments in the the php tag are
@@ -27,14 +27,34 @@
                     echo 'Hello World' 
                 ?> 
             </p>
+            <p>
+                Strings can be appended with the dot (.) Operator. 'Chris'.'Penis Guy'.
+                Same fucntionality as C++ with the += operators. Math is the same.
+                Number_Format(var,floatpoint) function like IOManip.
+                Constants defined as define('NAME',value).
+                Escape operator '\' could print syntax. 't' is tab.
+            </p>
         <h2>
-            Chapter One of Java Scrpit
+            Chapter One of Java Scrpit Lecture
         </h2>
             <p>
-                
+                In order to use JavaScript you need to use the "<script></script>" tags.
+                The document.write() method prints to the screen. 
             </p>
-        
-        
+        <h3> Lets use JavaScript! </h3>
+            <script>
+                document.open();
+                document.write("<h2>This is html printed with JS</h2>");
+            </script>
+            <p>
+                window.prompt("string") function to accept input from the user.
+                JS can respond to input from the user.
+                Lets try it. Ask a question
+            </p>
+            <script>
+                var name;
+                document.write(window.prompt('How are you?'));
+            </script>
         
         
         

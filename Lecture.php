@@ -102,6 +102,39 @@
                 backslash can be used as an escape method. "\"
                 
             </p>
+        <h1>
+            Chapter Four of PHP Lecture
+        </h1>
+            <p>
+                Intro to SQL-nsming Database Element are simlar to varibles
+                and case sensitive.
+                Varchar dynamically allocated memory.
+                Column Properties
+                Not null wont allow null fields.
+                Auto Increment-Self Explanatory.
+                Unique Wont allow values to repeat.
+                Indexes and Keys
+                Keys are about normalization.
+                Primary Key that manages the tables. Used by the Admin.
+                Is something about the table that brings it up.
+                Foregin Key creates a connection from one table to another.
+                Primary Keys Key in every table and must be unique and not negative
+                MySQL
+                
+                
+                
+                
+        
+            </p>
+        
+        <h1>
+            Lecture Two of JAVASCRRIPT 9/7/2016
+        </h1>
+        <p>
+            
+        </p>
+        
+        
     </body>
 
 
